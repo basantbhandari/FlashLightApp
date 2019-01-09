@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">flashlight</string>
+    <string name="enable_camera">Enable Camera</string>
+    <string name="todo">TODO</string>
+</resources>
